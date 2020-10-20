@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(#2b00ff 0%,#99508a 20%,#ffa1f7 100%);
+    text-align: center;
+}
+#welcome{
+    color: cornflowerblue;
+    bottom: 0;       
+}
+marquee{
+    font-size: 40px;
+    color: floralwhite;
+}
+img{
+    text-align: center;
+}
